@@ -10,4 +10,5 @@ export default defineConfig({
       },
     }),
   ],
+  base: '/<tray_talk>/'
 })
